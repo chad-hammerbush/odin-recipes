@@ -4,12 +4,14 @@ h1 {
     font-family: sans-serif;
     text-align: center;
     background-color: rgb(198, 198, 198);
+    padding: 8px;
 }
 
 h2 {
     font-family: sans-serif;
     text-align: left;
     background-color: rgb(198, 198, 198);
+    padding: 8px;
 }
 
 .recipes {
@@ -17,4 +19,13 @@ h2 {
     font-size: 30px;
     font-family: "Times New Roman";
     font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li {
+    margin: 4px;
 }
